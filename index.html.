@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мои ссылки</title>
+</head>
+<body>
+    <h1>Мои ссылки</h1>
+    <ul>
+        <li><a href="https://inpot.ru/?p=17190">Inpot - Статья 1</a></li>
+        <li><a href="https://in-contri.ru/">Incontri</a></li>
+        <li><a href="https://nenumerolog.ru/">Nenumerolog</a></li>
+        <li><a href="https://inpot.ru/?p=21171">Inpot - Статья 2</a></li>
+        <li><a href="https://22energy.ru/">22Energy</a></li>
+        <li><a href="https://misterius.ru/">Misterius</a></li>
+        <li><a href="https://volnium.ru/">Volnium</a></li>
+        <li><a href="https://inpot.ru/?p=17166">Inpot - Статья 3</a></li>
+        <li><a href="https://inpot.ru/?p=17177">Inpot - Статья 4</a></li>
+        <li><a href="https://sotis-online.ru/">Sotis Online</a></li>
+        <li><a href="https://www.numeria.ru/calculators/chakroanaliz">Numeria - Чакроанализ</a></li>
+        <li><a href="https://astrofd.ru/cal.html">Astrofd - Калькулятор</a></li>
+        <li><a href="https://inpot.ru/?p=17216">Inpot - Статья 5</a></li>
+        <li><a href="https://calc.mrosta.ru/kneefree">Mrosta - Knee Free</a></li>
+        <li><a href="https://astrohelper.ru/numerologiya/karmicheskii-goroskop/">Astrohelper - Кармический гороскоп</a></li>
+        <li><a href="https://tragos.ru/numerology/pythagoras-square/compatibility/?day1=7&month1=9&year1=1995&day2=15&month2=5&year2=1999">Tragos - Площадь Пифагора</a></li>
+    </ul>
+</body>
+</html>
